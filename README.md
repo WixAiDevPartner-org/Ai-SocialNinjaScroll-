@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="/assets/Ai-SocialNinjaScroll.png" alt="Mentor Logo" width="200">
+  <img src="/assets/example
+  .png" alt="Mentor Logo" width="200">
   <p><strong>A powerful block-based note-taking and knowledge management platform</strong></p>
 </div>
 
